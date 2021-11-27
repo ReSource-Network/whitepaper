@@ -13,12 +13,12 @@
 * [2.5 The Basic Economic Questions for DLT-based Mutual Credit Systems](01-executive-summary/2.5-the-basic-economic-questions-for-dlt-based-mutual-credit-systems.md)
   
 ## 03 The ReSource Protocol
-* [3.1 Introduction](01-executive-summary/3.1-introduction.md)
-* [3.2 Distributed debt collection and obligation enforcement](01-executive-summary/3.1.1-distributed-debt-collection-and-obligation-enforcementmd)
-* [3.3 Distributed risk management](01-executive-summary/3.1.2-distributed-risk-management.md)
-* [3.4 Underwriting and risk assumption](01-executive-summary/3.2-underwriting-and-risk-assumption.md)
-* [3.5 The Underwriting process - a breakdown](01-executive-summary/3.2.1-the-underwriting-process-a-breakdown.md)
-* [3.6 Ambassadors and network administration](01-executive-summary/3.3-ambassadors-and-network-administration.md)
+* [3.1 Introduction](03-the-resource-protocol/3.1-introduction.md)
+* [3.2 Distributed debt collection and obligation enforcement](03-the-resource-protocol/3.1.1-distributed-debt-collection-and-obligation-enforcementmd)
+* [3.3 Distributed risk management](03-the-resource-protocol/3.1.2-distributed-risk-management.md)
+* [3.4 Underwriting and risk assumption](03-the-resource-protocol/3.2-underwriting-and-risk-assumption.md)
+* [3.5 The Underwriting process - a breakdown](03-the-resource-protocol/3.2.1-the-underwriting-process-a-breakdown.md)
+* [3.6 Ambassadors and network administration](03-the-resource-protocol/3.3-ambassadors-and-network-administration.md)
 
 ## 04 Monetary Flow, Reserves, Default Insurance
 * [4.1 Introduction](4-monetary-flow-reserves-default-insurance/04-protocol-and-network-governance.md)
