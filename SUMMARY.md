@@ -37,6 +37,7 @@
 * [5.4	Initial SOURCE Allocation and Distribution](05-protocol-and-network-governance/5.4-initial-source-allocation-and-distribution.md)
 
 ## 06 Application Layer
+* [6.1 Introduction](06-application-layer/6.1-introduction.md)
 
 ## 07 TECHNOLOGY
 
