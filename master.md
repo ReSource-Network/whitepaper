@@ -1,5 +1,7 @@
 # Glossary
 
+“\[T]he crucial importance of the value proposition that mutual credit clearing provides . . . \[is] the provision of liquidity to a local or domestic economy, independent of the banking system and without the disruptive and destabilizing imposition of interest.” — Thomas Greco
+
 **Mutual Credit -**\
 A multilateral exchange network in which endogenously created money serves as medium of exchange. Please refer to chapter two for further definitions.
 

@@ -1,9 +1,7 @@
 # Table of contents
 
 ## 01 ReSource Finance
-* [Introduction](README.md)
 * [Glossary](master.md)
-* [README](<README (1).md>)
 * [Executive Summary](01-executive-summary/README.md)
 
 ## 02 Mutual Credit 
