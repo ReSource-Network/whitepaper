@@ -14,7 +14,7 @@
   
 ## 03 The ReSource Protocol
 * [3.1 Introduction](03-the-resource-protocol/3.1-introduction.md)
-* [3.2 Distributed debt collection and obligation enforcement](03-the-resource-protocol/3.1.1-distributed-debt-collection-and-obligation-enforcementmd)
+* [3.2 Distributed debt collection and obligation enforcement](03-the-resource-protocol/3.1.1-distributed-debt-collection-and-obligation-enforcement.md)
 * [3.3 Distributed risk management](03-the-resource-protocol/3.1.2-distributed-risk-management.md)
 * [3.4 Underwriting and risk assumption](03-the-resource-protocol/3.2-underwriting-and-risk-assumption.md)
 * [3.5 The Underwriting process - a breakdown](03-the-resource-protocol/3.2.1-the-underwriting-process-a-breakdown.md)
