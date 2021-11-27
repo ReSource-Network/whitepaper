@@ -1,4 +1,4 @@
-# 06 Overview
+# 07 Overview
 
 The ReSource Protocol and Network is only the first iteration of a suite of tools built to allow anyone to deploy an instance of the protocol with ease. We believe in leveraging existing technologies, emphasizing interoperability, and making specific design decisions to ensure the overall ecosystem's health.
 

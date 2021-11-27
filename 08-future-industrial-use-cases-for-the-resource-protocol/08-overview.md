@@ -1,4 +1,4 @@
-# 07 Overview
+# 08 Overview
 
 In its most abstract form, the ledgering logic driving mutual credit poses a use-case agnostic clearing and settlement engine which holds the potential of significantly simplifying otherwise complex economic transactions, and thus facilitate exchanges that would otherwise not come to fruition due to unjustifiable overhead.
 
