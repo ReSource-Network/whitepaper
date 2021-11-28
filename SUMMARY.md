@@ -25,7 +25,7 @@
 
 ## 04 Monetary Flow, Reserves, Default Insurance
 
-* [4.1 Introduction](4-monetary-flow-reserves-default-insurance/04-protocol-and-network-governance.md)
+* [4.1 Introduction](04-monetary-flow-reserves-default-insurance/4.1-introduction.md)
 * [4.2 Default Insurance](04-monetary-flow-reserves-default-insurance/4.2-default-insurance.md)
 * [4.3 SOURCE Reserve and Stable Coin Pegging Mechanism](04-monetary-flow-reserves-default-insurance/4.3-source-reserve-and-stable-coin-pegging-mechanism.md)
 * [4.3.1 rUSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.3.1-rusd-on-the-open-market.md)
