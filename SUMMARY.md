@@ -29,7 +29,7 @@
 * [4.2 Default Insurance](04-monetary-flow-reserves-default-insurance/4.2-default-insurance.md)
 * [4.3 SOURCE Reserve and Stable Coin Pegging Mechanism](04-monetary-flow-reserves-default-insurance/4.3-source-reserve-and-stable-coin-pegging-mechanism.md)
 * [4.3.1 rUSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.3.1-rusd-on-the-open-market.md)
-* [4.3.2 Compliant rUSD / SOURCE Swaps](04-monetary-flow-reserves-default-insurance/4.3.2-compliant-rusd-source-swaps.md)
+* [4.3.2  Alternatives to rUSD / SOURCE swaps](04-monetary-flow-reserves-default-insurance/4.3.2-compliant-rusd-source-swaps.md)
 * [4.4 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.4-source-token-dynamics.md)
 * [4.5 Monetary Buffering](04-monetary-flow-reserves-default-insurance/4.5-monetary-buffering.md)
 
@@ -46,7 +46,7 @@
 * [6.1 Introduction](06-application-layer/6.1-introduction.md)
 * [6.2 The Underwriting dApp](06-application-layer/6.2-the-underwriting-dapp.md)
 * [6.3 The Ambassador dApp](06-application-layer/6.3-the-ambassador-dapp.md)
-* [6.3	The Pool Aggregator](06-application-layer/6.3-the-pool-aggregator.md)
+* [6.3 The Pool Aggregator](06-application-layer/6.3-the-pool-aggregator.md)
 * [6.4 The ReSource Marketplace](06-application-layer/6.4-the-resource-marketplace.md)
 
 ## 07 TECHNOLOGY
