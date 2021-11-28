@@ -8,6 +8,4 @@ While the majority of fee payments are dedicated to incentivizing Underwriters, 
 
 This SOURCE and rUSD income streams are the bases for the network’s stablecoin pegging mechanism, and its insurance against defaults.
 
-
-
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
