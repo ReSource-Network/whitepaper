@@ -28,16 +28,15 @@
 * [4.1 Introduction](04-monetary-flow-reserves-default-insurance/4.1-introduction.md)
 * [4.2 Default Insurance](04-monetary-flow-reserves-default-insurance/4.2-default-insurance.md)
 * [4.3 SOURCE Reserve and Stable Coin Pegging Mechanism](04-monetary-flow-reserves-default-insurance/4.3-source-reserve-and-stable-coin-pegging-mechanism.md)
-* [4.3.1 rUSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.3.1-rusd-on-the-open-market.md)
-* [4.3.2  Alternatives to rUSD / SOURCE swaps](04-monetary-flow-reserves-default-insurance/4.3.2-compliant-rusd-source-swaps.md)
-* [4.4 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.4-source-token-dynamics.md)
-* [4.5 Monetary Buffering](04-monetary-flow-reserves-default-insurance/4.5-monetary-buffering.md)
+* [4.4 rUSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.3.1-rusd-on-the-open-market.md)
+* [4.5 Alternatives to rUSD / SOURCE swaps](04-monetary-flow-reserves-default-insurance/4.3.2-compliant-rusd-source-swaps.md)
+* [4.6 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.4-source-token-dynamics.md)
+* [4.7 Monetary Buffering](04-monetary-flow-reserves-default-insurance/4.5-monetary-buffering.md)
 
 ## 05 Protocol and Network Governance
 
 * [5.1 Introduction](05-protocol-and-network-governance/5.1-introduction.md)
 * [5.2 Reputation](05-protocol-and-network-governance/5.2-reputation.md)
-* [5.2 The Ambassador dApp](05-protocol-and-network-governance/5.2-the-ambassador-dapp.md)
 * [5.3 SOURCE Governance Token](05-protocol-and-network-governance/5.3-source-governance-token.md)
 * [5.4 Initial SOURCE Allocation and Distribution](05-protocol-and-network-governance/5.4-initial-source-allocation-and-distribution.md)
 
