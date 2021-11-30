@@ -28,10 +28,10 @@
 * [4.1 Introduction](04-monetary-flow-reserves-default-insurance/4.1-introduction.md)
 * [4.2 Default Insurance](04-monetary-flow-reserves-default-insurance/4.2-default-insurance.md)
 * [4.3 SOURCE Reserve and Stable Coin Pegging Mechanism](04-monetary-flow-reserves-default-insurance/4.3-source-reserve-and-stable-coin-pegging-mechanism.md)
-* [4.4 rUSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.3.1-rusd-on-the-open-market.md)
-* [4.5 Alternatives to rUSD / SOURCE swaps](04-monetary-flow-reserves-default-insurance/4.3.2-compliant-rusd-source-swaps.md)
-* [4.6 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.4-source-token-dynamics.md)
-* [4.7 Monetary Buffering](04-monetary-flow-reserves-default-insurance/4.5-monetary-buffering.md)
+* [4.4 rUSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.4-rusd-on-the-open-market.md)
+* [4.5 Alternatives to rUSD / SOURCE swaps](04-monetary-flow-reserves-default-insurance/4.5-compliant-rusd-source-swaps.md)
+* [4.6 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.6-source-token-dynamics.md)
+* [4.7 Monetary Buffering](04-monetary-flow-reserves-default-insurance/4.7-monetary-buffering.md)
 
 ## 05 Protocol and Network Governance
 
