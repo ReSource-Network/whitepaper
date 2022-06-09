@@ -14,4 +14,4 @@ _“\[T]he crucial importance of the value proposition that mutual credit cleari
 
 **RSD** - A stable credit serving as the ReSource Network’s unit of account.
 
-**SOURCE** - The ReSource Protocol’s governance token, used to underwrite loans, pay network fees, and participate in protocol as well as network governance. While rUSD is native to the ReSource Network, SOURCE serves all networks built on the ReSource Protocol.
+**SOURCE** - The ReSource Protocol’s governance token, used to underwrite loans, pay network fees, and participate in protocol as well as network governance. While RSD is native to the ReSource Network, SOURCE serves all networks built on the ReSource Protocol.
