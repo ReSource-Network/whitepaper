@@ -31,8 +31,7 @@
 * [4.4 RSD Autonomous stability and relation to the US Dollar](04-monetary-flow-reserves-default-insurance/4.4-rusd-on-the-open-market.md)
 * [4.4.1 RSD/USD Soft Peg](04-monetary-flow-reserves-default-insurance/4.4-rusd-on-the-open-market-1.md)
 * [4.4.2 RSD on the Open Market](04-monetary-flow-reserves-default-insurance/4.4-rusd-on-the-open-market-2.md)
-* [4.5 Alternatives to rUSD / SOURCE swaps](04-monetary-flow-reserves-default-insurance/4.5-compliant-rusd-source-swaps.md)
-* [4.6 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.6-source-token-dynamics.md)
+* [4.5 SOURCE Token Dynamics](04-monetary-flow-reserves-default-insurance/4.6-source-token-dynamics.md)
 * [4.7 Monetary Buffering](04-monetary-flow-reserves-default-insurance/4.7-monetary-buffering.md)
 
 ## 05 Protocol and Network Governance
